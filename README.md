@@ -1,4 +1,9 @@
-[![Build Status](https://travis-ci.org/jishi/node-sonos-discovery.svg?branch=refactor-with-promises)](https://travis-ci.org/jishi/node-sonos-discovery)
+Sonos discovery
+====================
+
+This is a modified version of jishi's great Sonos discovery (https://github.com/jishi/node-sonos-discovery)
+I have added the coverage of TuneIn Radio stations.
+
 
 node-sonos-discovery
 --------------------
